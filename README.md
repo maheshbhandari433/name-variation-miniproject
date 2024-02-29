@@ -22,7 +22,7 @@ Technologies Used
 Live Demo
 ---------
 
-You can view a live demo of this project at: [Variations Live Demo](#)
+You can view a live demo of this project at: [Variations Live Demo](https://main.d21m3co59u3cpw.amplifyapp.com/)
 
 License
 -------
