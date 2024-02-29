@@ -22,7 +22,7 @@ Technologies Used
 Live Demo
 ---------
 
-You can view a live demo of this project at: [Variations Live Demo](https://example.com)
+You can view a live demo of this project at: [Variations Live Demo](#)
 
 License
 -------
