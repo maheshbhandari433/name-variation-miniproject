@@ -19,16 +19,6 @@ Technologies Used
 - TypeScript
 - Vite 
 
-Project Structure
------------------
-
-Variations/
-│
-├── variations.js        # JavaScript file containing the functions
-├── variations.ts        # TypeScript file containing the functions
-│
-└── README.rst           # reStructuredText file containing project documentation
-
 Live Demo
 ---------
 
